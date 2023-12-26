@@ -24,16 +24,14 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript. </b>
+                <b className="purple"> Html,Css,Javascript. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">Web Technologies and Products </b> {" "}
                 <b className="purple">
-                  Cybersecurity.
                 </b>
               </i>
               <br />
@@ -48,7 +46,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js</b>
               </i>
             </p>
           </Col>
@@ -67,7 +65,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/sandyp007"
+                  href="https://github.com/prashantpandey05"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +85,7 @@ function Home2() {
               </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/sandeep-prajapati-8b524b181"
+                  href="https://www.linkedin.com/in/prashant-pandey-43a65b244"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +95,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/sandyp_26_11/"
+                  href="https://www.instagram.com/prashant.pandey05/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

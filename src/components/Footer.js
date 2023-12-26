@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Sandeep Prajapati</h3>
+          <h3>Designed and Developed by Prashant Pandey</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SP</h3>
+          <h3>Copyright © {year} PP</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/sandyp007"
+                href="https://github.com/prashantpandey05"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -34,7 +34,7 @@ function Footer() {
             
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/sandeep-prajapati-8b524b181"
+                href="https://www.linkedin.com/in/prashant-pandey-43a65b244"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -44,7 +44,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/sandyp_26_11/"
+                href="https://www.instagram.com/prashant.pandey05/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
